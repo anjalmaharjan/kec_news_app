@@ -19,10 +19,7 @@ class _DashboardPageState extends State<DashboardPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(),
-      body: Column(children: [
-         
-        ],
-      ),
+      body: Column(children: [Container()]),
     );
   }
 }
